@@ -1,17 +1,16 @@
 package com.coderscampus;
 
-public class Student {
+public class Student implements Comparable<Student>{
 
 	private Integer studentId;
 	private String studentName;
 	private String course;
 	private Integer grade;
 	
-	public Student(Integer studentId, String studentName, String course, Integer grade) {
-		this.studentId = studentId;
-		this.studentName = studentName;
-		this.course = course;
-		this.grade = grade;
+	@Override
+	public String toString() {
+		return "Student [studentId=" + studentId + ", studentName=" + studentName + ", course=" + course + ", grade="
+				+ grade + "]";
 	}
 
 	public Integer getStudentId() {
@@ -46,5 +45,15 @@ public class Student {
 		this.grade = grade;
 	}
 
+	@Override
+	public int compareTo(Student that) {
+		if (that.equals(null)) {
+			return 1;
+		}else {
+			return Integer.compare(that.getGrade(), this.getGrade());
+		}
 
-}
+	
+
+
+}}
