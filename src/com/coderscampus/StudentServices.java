@@ -1,11 +1,13 @@
 package com.coderscampus;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
+
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 public class StudentServices {
 
 	public Student[] readFile() throws IOException {
@@ -44,15 +46,15 @@ public class StudentServices {
 	}
 
 	public Student[] studentSeparatedByCourseWork(Student[] students, String courseName) {
-		System.out.println("!!!!!!!!!!!!");
+		List<Student> filteredStudents = new ArrayList<>();
+		
 		for (Student student : students) {
 			String nameOfCourse = student.getCourse();
 			if (nameOfCourse.contains(courseName)) {
-
-				System.out.println(student);
+				filteredStudents.add(student);
 			}
 		}
-		return students;
+		return filteredStudents.toArray(new Student[0]);
 	}
 	
 	public void writeStudentsToFile(Student[] students, String fileName) {
