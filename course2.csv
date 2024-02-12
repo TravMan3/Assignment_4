@@ -1,33 +1,34 @@
-Student [studentId=89, studentName=Alison Murray, course=APMTH 134, grade=93]
-Student [studentId=59, studentName=Amber-Rose Austin, course=APMTH 129, grade=93]
-Student [studentId=68, studentName=Aran Rice, course=APMTH 131, grade=89]
-Student [studentId=44, studentName=Brandan Mcbride, course=APMTH 127, grade=89]
-Student [studentId=32, studentName=Veronica Dodd, course=APMTH 125, grade=88]
-Student [studentId=47, studentName=Abbi Perkins, course=APMTH 127, grade=84]
-Student [studentId=92, studentName=Safa Carrillo, course=APMTH 135, grade=84]
-Student [studentId=98, studentName=Milo Whittington, course=APMTH 136, grade=81]
-Student [studentId=65, studentName=Jemma Shannon, course=APMTH 130, grade=81]
-Student [studentId=56, studentName=Amanda Mathis, course=APMTH 129, grade=80]
-Student [studentId=26, studentName=Sara Stacey, course=APMTH 124, grade=80]
-Student [studentId=77, studentName=Landon Fields, course=APMTH 132, grade=75]
-Student [studentId=83, studentName=Ffion Jones, course=APMTH 133, grade=75]
-Student [studentId=86, studentName=Loretta Truong, course=APMTH 134, grade=74]
-Student [studentId=20, studentName=Howard Goldsmith, course=APMTH 123, grade=74]
-Student [studentId=14, studentName=Leia Browne, course=APMTH 122, grade=73]
-Student [studentId=80, studentName=Myra Bryant, course=APMTH 133, grade=73]
-Student [studentId=95, studentName=Desiree Rivers, course=APMTH 135, grade=72]
-Student [studentId=74, studentName=Randall Deacon, course=APMTH 132, grade=72]
-Student [studentId=53, studentName=Carwyn Decker, course=APMTH 128, grade=71]
-Student [studentId=11, studentName=Monty Bloom, course=APMTH 121, grade=71]
-Student [studentId=8, studentName=Penelope Brett, course=APMTH 121, grade=69]
-Student [studentId=71, studentName=Johnnie Murillo, course=APMTH 131, grade=69]
-Student [studentId=29, studentName=Hana Larson, course=APMTH 124, grade=67]
-Student [studentId=50, studentName=Husnain Hilton, course=APMTH 128, grade=64]
-Student [studentId=41, studentName=Corban Dorsey, course=APMTH 126, grade=64]
-Student [studentId=35, studentName=Rida Hanson, course=APMTH 125, grade=63]
-Student [studentId=38, studentName=Aine Bates, course=APMTH 126, grade=62]
-Student [studentId=23, studentName=Flynn Morton, course=APMTH 123, grade=62]
-Student [studentId=5, studentName=Emily Barber, course=APMTH 120, grade=61]
-Student [studentId=62, studentName=Avneet Melendez, course=APMTH 130, grade=60]
-Student [studentId=17, studentName=Eisa Grainger, course=APMTH 122, grade=59]
-Student [studentId=2, studentName=Tazmin Morse, course=APMTH 120, grade=51]
+Student ID,Student Name,Course,Grade
+89,Alison Murray,APMTH 134,93
+59,Amber-Rose Austin,APMTH 129,93
+68,Aran Rice,APMTH 131,89
+44,Brandan Mcbride,APMTH 127,89
+32,Veronica Dodd,APMTH 125,88
+47,Abbi Perkins,APMTH 127,84
+92,Safa Carrillo,APMTH 135,84
+98,Milo Whittington,APMTH 136,81
+65,Jemma Shannon,APMTH 130,81
+56,Amanda Mathis,APMTH 129,80
+26,Sara Stacey,APMTH 124,80
+77,Landon Fields,APMTH 132,75
+83,Ffion Jones,APMTH 133,75
+86,Loretta Truong,APMTH 134,74
+20,Howard Goldsmith,APMTH 123,74
+14,Leia Browne,APMTH 122,73
+80,Myra Bryant,APMTH 133,73
+95,Desiree Rivers,APMTH 135,72
+74,Randall Deacon,APMTH 132,72
+53,Carwyn Decker,APMTH 128,71
+11,Monty Bloom,APMTH 121,71
+8,Penelope Brett,APMTH 121,69
+71,Johnnie Murillo,APMTH 131,69
+29,Hana Larson,APMTH 124,67
+50,Husnain Hilton,APMTH 128,64
+41,Corban Dorsey,APMTH 126,64
+35,Rida Hanson,APMTH 125,63
+38,Aine Bates,APMTH 126,62
+23,Flynn Morton,APMTH 123,62
+5,Emily Barber,APMTH 120,61
+62,Avneet Melendez,APMTH 130,60
+17,Eisa Grainger,APMTH 122,59
+2,Tazmin Morse,APMTH 120,51

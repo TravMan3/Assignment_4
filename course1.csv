@@ -1,34 +1,35 @@
-Student [studentId=28, studentName=Justin Conrad, course=COMPSCI 310, grade=99]
-Student [studentId=37, studentName=Simone Scott, course=COMPSCI 312, grade=91]
-Student [studentId=91, studentName=Donald Schultz, course=COMPSCI 321, grade=87]
-Student [studentId=19, studentName=Blair Heaton, course=COMPSCI 309, grade=87]
-Student [studentId=79, studentName=Kerys John, course=COMPSCI 319, grade=87]
-Student [studentId=64, studentName=Jameson Best, course=COMPSCI 316, grade=86]
-Student [studentId=73, studentName=Alys Mccormick, course=COMPSCI 318, grade=85]
-Student [studentId=97, studentName=Angus Navarro, course=COMPSCI 322, grade=85]
-Student [studentId=88, studentName=Kwame Mckenzie, course=COMPSCI 320, grade=83]
-Student [studentId=16, studentName=Allan Povey, course=COMPSCI 308, grade=83]
-Student [studentId=61, studentName=Antoine Cummings, course=COMPSCI 316, grade=83]
-Student [studentId=25, studentName=Angelina Shepard, course=COMPSCI 310, grade=82]
-Student [studentId=4, studentName=Elsie Medina, course=COMPSCI 306, grade=81]
-Student [studentId=76, studentName=Simran Hahn, course=COMPSCI 318, grade=80]
-Student [studentId=10, studentName=Darrell Newton, course=COMPSCI 307, grade=79]
-Student [studentId=43, studentName=Priyanka Nieves, course=COMPSCI 313, grade=79]
-Student [studentId=100, studentName=Simeon Rowley, course=COMPSCI 322, grade=78]
-Student [studentId=52, studentName=Eloisa Serrano, course=COMPSCI 314, grade=76]
-Student [studentId=34, studentName=Yassin Mcintyre, course=COMPSCI 311, grade=74]
-Student [studentId=22, studentName=Joy Ayers, course=COMPSCI 309, grade=74]
-Student [studentId=49, studentName=Ihsan Burt, course=COMPSCI 314, grade=74]
-Student [studentId=94, studentName=Maiya Gallegos, course=COMPSCI 321, grade=73]
-Student [studentId=70, studentName=Tegan Fox, course=COMPSCI 317, grade=72]
-Student [studentId=67, studentName=Iqra Hodson, course=COMPSCI 317, grade=72]
-Student [studentId=46, studentName=Mitchell Duran, course=COMPSCI 313, grade=71]
-Student [studentId=85, studentName=Aamina Mclaughlin, course=COMPSCI 320, grade=69]
-Student [studentId=55, studentName=Kelsey Ware, course=COMPSCI 315, grade=69]
-Student [studentId=58, studentName=Arielle Pope, course=COMPSCI 315, grade=67]
-Student [studentId=1, studentName=Sacha Rich, course=COMPSCI 306, grade=66]
-Student [studentId=82, studentName=Braxton Colley, course=COMPSCI 319, grade=66]
-Student [studentId=40, studentName=Elize Robin, course=COMPSCI 312, grade=65]
-Student [studentId=7, studentName=Liyah Preece, course=COMPSCI 307, grade=63]
-Student [studentId=31, studentName=Aryaan Coates, course=COMPSCI 311, grade=58]
-Student [studentId=13, studentName=Luther Thornton, course=COMPSCI 308, grade=53]
+Student ID,Student Name,Course,Grade
+28,Justin Conrad,COMPSCI 310,99
+37,Simone Scott,COMPSCI 312,91
+91,Donald Schultz,COMPSCI 321,87
+19,Blair Heaton,COMPSCI 309,87
+79,Kerys John,COMPSCI 319,87
+64,Jameson Best,COMPSCI 316,86
+73,Alys Mccormick,COMPSCI 318,85
+97,Angus Navarro,COMPSCI 322,85
+88,Kwame Mckenzie,COMPSCI 320,83
+16,Allan Povey,COMPSCI 308,83
+61,Antoine Cummings,COMPSCI 316,83
+25,Angelina Shepard,COMPSCI 310,82
+4,Elsie Medina,COMPSCI 306,81
+76,Simran Hahn,COMPSCI 318,80
+10,Darrell Newton,COMPSCI 307,79
+43,Priyanka Nieves,COMPSCI 313,79
+100,Simeon Rowley,COMPSCI 322,78
+52,Eloisa Serrano,COMPSCI 314,76
+34,Yassin Mcintyre,COMPSCI 311,74
+22,Joy Ayers,COMPSCI 309,74
+49,Ihsan Burt,COMPSCI 314,74
+94,Maiya Gallegos,COMPSCI 321,73
+70,Tegan Fox,COMPSCI 317,72
+67,Iqra Hodson,COMPSCI 317,72
+46,Mitchell Duran,COMPSCI 313,71
+85,Aamina Mclaughlin,COMPSCI 320,69
+55,Kelsey Ware,COMPSCI 315,69
+58,Arielle Pope,COMPSCI 315,67
+1,Sacha Rich,COMPSCI 306,66
+82,Braxton Colley,COMPSCI 319,66
+40,Elize Robin,COMPSCI 312,65
+7,Liyah Preece,COMPSCI 307,63
+31,Aryaan Coates,COMPSCI 311,58
+13,Luther Thornton,COMPSCI 308,53

@@ -1,7 +1,7 @@
 package com.coderscampus;
 
 import java.io.BufferedReader;
-
+import java.io.BufferedWriter;
 import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -59,6 +59,8 @@ public class StudentServices {
 	
 	public void writeStudentsToFile(Student[] students, String fileName) {
 		try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))){
+			writer.write("Student ID" + "," + "Student Name" + "," + "Course" + "," + "Grade");
+			writer.newLine();
 			for (Student student : students) {
 				writer.write(student.toString());
 				writer.newLine();

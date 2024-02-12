@@ -9,8 +9,7 @@ public class Student implements Comparable<Student>{
 	
 	@Override
 	public String toString() {
-		return "Student [studentId=" + studentId + ", studentName=" + studentName + ", course=" + course + ", grade="
-				+ grade + "]";
+		return studentId+"," + studentName +","+ course +","+ grade;
 	}
 
 	public Integer getStudentId() {
